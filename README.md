@@ -2,20 +2,21 @@
 
 This Project involves predicting nunber of forward citations for the US software patents data.
 ## Key Models
-Data Preprocessing through Pipeline
-Linear Regression
-Ridge Regression
-Lasso Regression
-Elasticnet Regression
-SGD linear regression
-SVM kernal Regression
-Polynomial Regression
-KNN
-Decision Trees
+Data Preprocessing through Pipeline,
+Linear Regression,
+Ridge Regression,
+Lasso Regression,
+Elasticnet Regression,
+SGD linear regression,
+SVM kernal Regression,
+Polynomial Regression,
+KNN,
+Decision Trees.
 
-Best model selected on the basis of cross validation score and generalization.
+
 
 ## Conslusion
+Best model selected on the basis of cross validation score and generalization.
 
 Models used with hyperparameters :linear regression, linear regression with SGD, Ridge,Lasso, ElasticNet, Polynomial regression,
 Polynomial Regression with regularization, Decision Tree regression
